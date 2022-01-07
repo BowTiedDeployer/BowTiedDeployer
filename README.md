@@ -1,6 +1,6 @@
 - 👋 @BowTiedDeployer here
 - 👀 STX and GAMEFI through Web3
-- ⚡ Creating StacksDegens 
+- ⚡ Head Dev [StacksDegens](https://twitter.com/StacksDegens) 
 - 🚗 The First Play2Earn Game on Stacks Blockchain
 - 🙌 Collabs open 
 - 📫 Reach me on twitter [@BowTiedDeployer](https://twitter.com/BowTiedDeployer)
