@@ -1,7 +1,6 @@
 - Bitcoin Dev
 - Stacks Dev
 - Dev [StacksDegens](https://twitter.com/StacksDegens) 
-- Twitter [@BowTiedDeployer](https://twitter.com/BowTiedDeployer)
 
 <!---
 BowTiedDeployer/BowTiedDeployer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
