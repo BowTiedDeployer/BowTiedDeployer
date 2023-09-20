@@ -1,6 +1,6 @@
-- Bitcoin Dev
-- Stacks Dev
-- Dev [StacksDegens](https://twitter.com/StacksDegens) 
+- Bitcoin Developer
+- Stacks Developer
+- Dev [DegenLab](https://twitter.com/DegenLabBTC)
 
 - Bitcoin core contributor https://github.com/bitcoin-core/btcdeb
 <!---
